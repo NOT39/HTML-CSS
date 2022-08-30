@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(22, 22, 22);
+    margin: 0px;
+}
+
+h1, p {
+    color: white;
+    text-align: center;
+}
+
+div#centralizado {
+    margin: auto;
+    width: 404px;
+    height: auto;
+}
+
+#video {
+    margin: auto;
+    width: 560px;
+}
+
+#voltar {
+    margin: auto;
+    width: 50px;
+}
